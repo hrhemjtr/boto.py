@@ -48,4 +48,4 @@ async def on_message(message):
 
 # Run the bot directly with your token
 import os
-bot.run(os.getenv("MTM2NjMzMjgyNTU3NzQ1OTczMw.GHT3GB.tXxCe4VUkXIU_2x4TkdE_87xrVauZ4-4vLeSkU"))
+bot.run(os.getenv("MTM2NjMzMjgyNTU3NzQ1OTczMw.G-mWya.RSg44kZJfKbTRsGzKFfmGhdosW9t8qrsS2m0gEZ4-4vLeSkU"))
